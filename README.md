@@ -41,4 +41,4 @@ should support the following functionalities:
 ● Display the points of athletes.
 
 ## Design
-
+![](design.png)
